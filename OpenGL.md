@@ -15,4 +15,4 @@
 - Rasterization을 통해 나온 각각의 fragments들의 fragment shader를 실행한다
 - blending 같은 추가적인Per-fragment 기능을 제공한다
 
-![스크린샷(4)](C:\Users\sharm\Pictures\Screenshots\스크린샷(4).png)
+![스크린샷(4)](https://user-images.githubusercontent.com/50454395/149051964-0abb2b65-10a3-4f49-b692-2799d6803047.png)
