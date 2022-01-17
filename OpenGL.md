@@ -15,8 +15,13 @@
 - Rasterization을 통해 나온 각각의 fragments들의 fragment shader를 실행한다
 - blending 같은 추가적인Per-fragment 기능을 제공한다
 
-![스크린샷(4)](C:\Users\sharm\Pictures\Screenshots\스크린샷(4).png)
+윈도우
 
-삼각형![openglTriangle](C:\Users\sharm\Pictures\openglTriangle.PNG)
+![스크린샷(4)](C:\Users\sharm\Desktop\Graphics-Study\Image\스크린샷(4).png)
 
-사각형![openglSquare](C:\Users\sharm\Pictures\openglSquare.PNG)
+삼각형
+
+![openglTriangle](C:\Users\sharm\Desktop\Graphics-Study\Image\openglSquare.PNG)
+
+사각형
+
