@@ -20,7 +20,7 @@
 ![스크린샷(4)](C:\Users\sharm\Desktop\Graphics-Study\Image\스크린샷(4).png)
 
 삼각형
-https://github.com/bonggyuKim/Graphics-Study/blob/36197dcb000fceb1aa864eb9fb6ede8ffad5eb32/Image/openglTriangle.PNG
+![openglSquare](C:\Users\sharm\Desktop\Graphics-Study\Image\openglSquare.PNG)
 
 사각형
 
