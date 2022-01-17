@@ -1,7 +1,3 @@
----
-typora-root-url: Image
----
-
 # OpenGL
 
 #### Chapter 1. Introduction to OpenGL
@@ -29,4 +25,4 @@ typora-root-url: Image
 
 사각형
 
-![openglSquare](/openglSquare.PNG)
+![openglSquare](C:\Users\sharm\Desktop\Graphics-Study\Image\openglSquare.PNG)
