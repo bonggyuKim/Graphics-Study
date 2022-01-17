@@ -17,3 +17,5 @@
 
  창 띄우기
 ![스크린샷(4)](https://user-images.githubusercontent.com/50454395/149051964-0abb2b65-10a3-4f49-b692-2799d6803047.png)
+![openglTriangle](C:\Users\sharm\Pictures\openglTriangle.PNG)
+![openglSquare](C:\Users\sharm\Pictures\openglSquare.PNG)
