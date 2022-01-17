@@ -1,3 +1,7 @@
+---
+typora-root-url: Image
+---
+
 # OpenGL
 
 #### Chapter 1. Introduction to OpenGL
@@ -21,7 +25,8 @@
 
 삼각형
 
-![openglTriangle](C:\Users\sharm\Desktop\Graphics-Study\Image\openglSquare.PNG)
+![img](file:///C:/Users/sharm/Desktop/Graphics-Study/Image/openglTriangle.PNG?lastModify=1642422671)
 
 사각형
 
+![openglSquare](/openglSquare.PNG)
